@@ -22,7 +22,8 @@ UpKeep Address
 > https://sepolia.scrollscan.com/token/0x65a63029e26eda57f6494164c8b475bd083f9148
 
   Cross-chain Interaction Contract
-  > 0xb410FE28dc76e4679D64dB07BFdC67c236446912
+  > 0x73C2E1F76382F9f41BEF20ad9a65065b8b58b6a4
+> https://sepolia.etherscan.io/address/0x73c2e1f76382f9f41bef20ad9a65065b8b58b6a4
 
 
   
